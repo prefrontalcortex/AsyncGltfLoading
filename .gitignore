@@ -1,0 +1,5 @@
+﻿projects/*/UserSettings
+projects/*/Library
+projects/*/Logs
+projects/*/*.csproj
+projects/*/*.sln
