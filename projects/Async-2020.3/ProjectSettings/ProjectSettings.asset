@@ -600,7 +600,8 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    1: KTX_UNITY_GPU_UPLOAD
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}

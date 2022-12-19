@@ -4,3 +4,5 @@ projects/*/Logs
 projects/*/*.csproj
 projects/*/*.sln
 projects/Async-2020.3/Temp
+projects/Async-2020.3/.idea
+projects/Async-2020.3/obj
