@@ -4,3 +4,6 @@
 [submodule "packages/glTFast"]
 	path = packages/glTFast
 	url = https://github.com/prefrontalcortex/glTFast.git
+[submodule "packages/KTX-Software-Unity"]
+	path = packages/KTX-Software-Unity
+	url = https://github.com/prefrontalcortex/KTX-Software-Unity.git

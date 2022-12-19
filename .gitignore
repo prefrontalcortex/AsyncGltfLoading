@@ -3,3 +3,4 @@ projects/*/Library
 projects/*/Logs
 projects/*/*.csproj
 projects/*/*.sln
+projects/Async-2020.3/Temp
